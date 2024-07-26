@@ -15,3 +15,12 @@
 .per-border {
     border: 2px dashed;
 }
+
+td .btn-outline-secondary {
+    height: 40px;
+    width: 40px;
+}
+
+#catalog tr:last-child td {
+    min-width: 100px;
+}
