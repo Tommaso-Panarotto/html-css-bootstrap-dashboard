@@ -1,7 +1,3 @@
-/* Generics */
-
-/* Utils */
-
 /*header*/
 .duck {
     height: 60px;
@@ -12,13 +8,14 @@
 }
 
 /* to remove*/
-.per-border {
-    border: 2px dashed;
-}
-
 td .btn-outline-secondary {
     height: 40px;
     width: 40px;
+}
+
+/*New Book Pages*/
+.text-area textarea {
+    resize: none;
 }
 
 #catalog tr:last-child td {
